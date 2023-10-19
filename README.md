@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShekharKedia. I am currently pursuing MSc in Applied Social Data Science from Trinity College Dublin.
+- 👋 Hi, I’m Shekhar Kedia and I am currently pursuing my MSc in Applied Social Data Science from Trinity College Dublin.
 - 💼 I bring with me about eight years of experience in the field of program monitoring and evaluation and capacity development.
 - 👀 I’m passionate about social research and programming in general
 - 🌱 I’m currently learning R, Python, Latex, Git and anything that is relevant to the field of data science
