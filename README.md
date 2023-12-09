@@ -6,7 +6,7 @@
 - 🔎 For more information about me please feel free to go through my [CV](https://drive.google.com/file/d/1PKu-QnrXRL83urwffRPuxdBBypjqVRf6/view?usp=drive_link)
 - 📫 How to reach me: connect.skedia@gmail.com
 
-[![Shekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShekharKedia)](https://github.com/ShekharKedia/github-readme-stats & show_icons=true)
+[![Shekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShekharKedia)](https://github.com/ShekharKedia/github-readme-stats&show_icons=True)
 
 ![](https://komarev.com/ghpvc/?username=ShekharKedia)
 
