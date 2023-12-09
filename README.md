@@ -6,6 +6,8 @@
 - 🔎 For more information about me please feel free to go through my [CV](https://drive.google.com/file/d/1PKu-QnrXRL83urwffRPuxdBBypjqVRf6/view?usp=drive_link)
 - 📫 How to reach me: connect.skedia@gmail.com
 
+[![Shekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShekharKedia)](https://github.com/ShekharKedia/github-readme-stats)
+
 <!---
 ShekharKedia/ShekharKedia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
