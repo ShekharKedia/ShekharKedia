@@ -8,6 +8,8 @@
 
 [![Shekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShekharKedia)](https://github.com/ShekharKedia/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=ShekharKedia)
+
 <!---
 ShekharKedia/ShekharKedia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
