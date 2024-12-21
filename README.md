@@ -9,7 +9,7 @@ Over the years, I have led and contributed to research studies funded by promine
 **Programming & Analytics:** R, Python, STATA, SPSS, ATLAS.ti, Power BI, LaTeX, Git\
 **Machine Learning:** Supervised and unsupervised learning, text analysis, and sentiment analysis\
 **Data Visualisation:** Crafting insightful dashboards and reports using Power BI to communicate research findings\
-**Research Design:** Expertise in impact evaluations, mixed-methods approaches, and large-scale data frameworks\
+**Research Design:** Expertise in impact evaluations, mixed-methods approaches, and large-scale data frameworks
 
 In my most recent role with the Injuries Resolution Board in Ireland, I developed a comprehensive data framework for vulnerable road users (essentially pedestrians, cyclists and e-scooter/e-bike users) and analysed the multifaceted impacts of road traffic accidents. This work combined rigorous quantitative and qualitative analysis to support evidence-based policymaking.
 
