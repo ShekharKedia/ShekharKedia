@@ -4,8 +4,8 @@ I hold a First-Class MSc in Applied Social Data Science from Trinity College Dub
 
 Over the years, I have led and contributed to research studies funded by prominent organisations such as the Bill & Melinda Gates Foundation (BMGF), Walmart Foundation, Tata Trusts, Amazon, GiZ, and others. My experience includes conducting impact evaluations, developing mixed-method research designs, and creating actionable reports for high-impact projects across South Asia and Europe.
 
-**Key technical skills:**
-**Programming & Analytics:** R, Python, STATA, SPSS, ATLAS.ti, Power BI, LaTeX, Git
+**Key technical skills:**\
+**Programming & Analytics:** R, Python, STATA, SPSS, ATLAS.ti, Power BI, LaTeX, Git\
 **Machine Learning:** Supervised and unsupervised learning, text analysis, and sentiment analysis
 **Data Visualisation:** Crafting insightful dashboards and reports using Power BI to communicate research findings
 **Research Design:** Expertise in impact evaluations, mixed-methods approaches, and large-scale data frameworks
