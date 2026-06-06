@@ -18,8 +18,6 @@ I am passionate about harnessing the power of data to drive societal change and 
 🔎 For more information about me please feel free to go through my [CV](https://drive.google.com/file/d/1yD8yq6fdyhO7yDM1F4XvguIumqP5L5IZ/view?usp=drive_link)\
 📫 How to reach me: connect.skedia@gmail.com
 
-![Shekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShekharKedia&show_icons=true&hide=contribs,prs,issues)
-
 ![](https://komarev.com/ghpvc/?username=ShekharKedia)
 
 <!---
